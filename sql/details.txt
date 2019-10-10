@@ -1,0 +1,7 @@
+Reporting-MTA: dsn; a4-8.smtp-out.eu-west-1.amazonses.com
+
+Action: failed
+Final-Recipient: rfc822; frederic.chatillon65@free.fr
+Diagnostic-Code: smtp; 550 spam detected
+Status: 5.3.0
+
